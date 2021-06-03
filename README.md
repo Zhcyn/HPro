@@ -1,0 +1,2 @@
+# HPro
+This is an app that records their daily behaviors and habits. Users plan themselves by adding certain behaviors in their daily behaviors. You can also select a date to record yourself in more detail. The current application is still under development. At this stage, the main test interface is the integrity and logical correctness. If you encounter any problems during the test, please contact me
